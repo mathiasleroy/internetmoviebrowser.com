@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+  <url>
+    <loc>https://internetmoviebrowser.com/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+<!--<url><loc>https://internetmoviebrowser.com/recommendations</loc></url>-->
+<!--<url><loc>https://internetmoviebrowser.com/theaters</loc></url>-->
+
+
+<!--<url><loc>https://internetmoviebrowser.com/m/:imdbID</loc></url>-->
+<!--data_movies.slice(0,20).map(d => d.imdbID).join('/m/')-->
+
+<url><loc>https://internetmoviebrowser.com/?n=100#/m/tt6105098</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://internetmoviebrowser.com/?n=100#/m/tt6320628</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://internetmoviebrowser.com/?n=100#/m/tt7131622</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://internetmoviebrowser.com/?n=100#/m/tt8772262</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://internetmoviebrowser.com/?n=100#/m/tt8364368</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://internetmoviebrowser.com/?n=100#/m/tt0437086</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://internetmoviebrowser.com/?n=100#/m/tt4154796</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://internetmoviebrowser.com/?n=100#/m/tt1979376</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://internetmoviebrowser.com/?n=100#/m/tt0110357</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://internetmoviebrowser.com/?n=100#/m/tt2274648</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://internetmoviebrowser.com/?n=100#/m/tt2499472</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://internetmoviebrowser.com/?n=100#/m/tt0448115</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://internetmoviebrowser.com/?n=100#/m/tt9419834</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://internetmoviebrowser.com/?n=100#/m/tt4126476</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://internetmoviebrowser.com/?n=100#/m/tt8079248</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://internetmoviebrowser.com/?n=100#/m/tt2139881</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://internetmoviebrowser.com/?n=100#/m/tt7485048</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://internetmoviebrowser.com/?n=100#/m/tt7734218</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://internetmoviebrowser.com/?n=100#/m/tt0092099</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://internetmoviebrowser.com/?n=100#/m/tt6146586</loc><changefreq>weekly</changefreq></url>
+
+
+
+<!--<url><loc>https://internetmoviebrowser.com/theaters/:area</loc></url>-->
+
+</urlset>
+<!-- https://smallseotools.com/xml-sitemap-generator/ -->
